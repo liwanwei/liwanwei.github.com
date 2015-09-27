@@ -2,7 +2,7 @@
 title: "玩着玩着就伟大了"
 url: "//liwanwei.github.io"
 highlighter: pygments
-paginate: 5
+paginate: 10
 author:
     name: liwanwei
     github:
