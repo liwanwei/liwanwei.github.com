@@ -23,7 +23,7 @@ body {
   font-size: $font-size;
   line-height: $line-height * 1.6;
   color: lighten($base08, 10%);
-  background: darken($base07, 10%);
+  background: #FFFFFF;
   @include sans-serif;
   * {
     transition: all .2s;
@@ -40,42 +40,56 @@ a {
 
 h1 {
   font-size: $font-size * 2;
-  color: $base01;
+  color: #000000;
+  text-align:center;
+  font-weight:bold;
 }
 
 h2 {
   font-size: $font-size * 1.75;
-  color: $base02;
+  color: #CD0000;
+  font-weight:bold;
+
 }
 
 h3 {
   font-size: $font-size * 1.5;
-  color: lighten($base03, 10%);
+  color: #000000;
+  font-weight:bold;
 }
 
 h4 {
   font-size: $font-size * 1.5;
-  color: $base04;
+  color: #000000;
+  font-weight:bold;
 }
 
 h5 {
   font-size: $font-size * 1.25;
   color: darken($base05, 15%);
+  font-weight:bold;
 }
 
 h6 {
   font-size: $font-size * 1.25;
   color: darken($base06, 30%);
+  font-weight:bold;
 }
 
-h1, h2, h3, h4, h5, h6, strong {
+h1, h2, h3 {
   line-height: $line-height * 1.8;
-  @include text-shadow;
+ 
+}
+
+h4, h5, h6, strong {
+  line-height: $line-height * 1.8;
+ 
 }
 
 hr {
   border-color: lighten($base03, 10%);
 }
+
 
 time.small {
   font-size: 50%;
@@ -93,11 +107,10 @@ time.small {
     display: inline;
     padding-left: 15px;
     font-size: $font-size * 2;
-    @include text-shadow;
     a {
-      color: darken($base05, 15%);
+      color: #6EC1C2;
       &:hover, &:focus {
-        color: darken($base05, 30%);
+        color: #6EC1C2;
       }
     }
   }
@@ -128,12 +141,12 @@ time.small {
   border: 1px solid rgba($base08, $alpha);
   box-shadow: 0 1px 10px rgba($base08, $alpha * 2);
   .title {
-  color: lighten($base03, 10%);
+  color: #000000;
     border-bottom: 2px dashed lighten($base03, 10%);
   a {
-    color: lighten($base03, 10%);
+    color: lighten(#000000, 10%);
     &:hover, &:focus {
-      color: $base03;
+      color: #000000;
     }
   }
   }
@@ -214,10 +227,10 @@ aside {
 blockquote {
   position: relative;
   margin: 15px 10px;
-  background-color: rgba(lighten($base03, 10%), $alpha);
+  background-color: rgba(#D3D3D3, $alpha);
   border-width: 1px 1px 1px 5px;
   border-style: solid;
-  border-color: rgba($base03, $alpha * 2);
+  border-color: rgba(#C7C7C7, $alpha * 2);
   border-radius: 4px;
   box-shadow: 0 0 3px rgba($base03, $alpha);
   &:before, &:after {
@@ -228,7 +241,7 @@ blockquote {
     font-family: Times, serif;
     font-size: $font-size * 2;
     font-weight: bold;
-    color: rgba($base08, $alpha * 2);
+    color: rgba(#000000, $alpha * 2);
   }
   &:before {
     top: 0;
@@ -335,7 +348,7 @@ img {
   ul {
     li {
       p.title {
-        color: darken($base05, 15%);
+        color: darken(#CD0000, 15%);
       }
     }
     li.active {
