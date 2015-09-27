@@ -2,7 +2,7 @@
 layout: post
 category : lessons
 tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+tags : [jekyll]
 ---
 
 
@@ -235,15 +235,16 @@ There is a special variable in all templates named : `content`.
 The `content` variable holds the page/post content including any sub-template content previously defined.
 Render the content variable wherever you want your main content to be injected into your template:
 
-{% capture text %}...
-<body>
-  <div id="sidebar"> ... </div>
-  <div id="main">
-    |.{content}.|
-  </div>
-</body>
-...{% endcapture %}
-{% include JB/liquid_raw %}
+		
+	{% capture text %}...
+	<body>
+	<div id="sidebar"... </div>
+	<div id="main">
+	|.{content}.|
+	</div>
+	</body>
+	...{% endcapture %}
+	
 
 ### Sub-Templates
 
