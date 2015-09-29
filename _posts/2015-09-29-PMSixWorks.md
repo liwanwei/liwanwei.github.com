@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Operation
+category : PDM
 tagline: "互联网术语"
 tags : [产品经理]
 title:  "产品经理的六项基本工作"
@@ -142,3 +142,18 @@ comments: true
 	- 关注用户需求反馈
 	- 持续与各部门保持协调沟通
 	- 新版本迭代与优化
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'liwanweigithubio';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>

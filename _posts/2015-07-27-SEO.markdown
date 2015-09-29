@@ -1,6 +1,6 @@
 ---
 layout: post
-category : jobs
+category : SEO
 tagline: "Supporting tagline"
 tags : [seo]
 title:  "SEO概述"

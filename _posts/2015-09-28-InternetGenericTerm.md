@@ -2,7 +2,7 @@
 layout: post
 category : Operation
 tagline: "互联网术语"
-tags : [运营]
+tags : [运营,互联网术语]
 title:  "扫盲贴：史上最全的互联网专业词语汇总"
 comments: true
 ---	 

@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Operation
+category : tools
 tagline: "excel技巧"
 tags : [tools]
 title:  "Excel 常用函数技巧"

@@ -1,6 +1,6 @@
 ---
 layout: post
-category : jobs
+category : SEO
 tagline: "Google搜索技巧"
 tags : [google search technique]
 title:  "Google搜索技巧"
