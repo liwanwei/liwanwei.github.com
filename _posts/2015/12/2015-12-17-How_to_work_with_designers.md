@@ -75,5 +75,5 @@ Every single designer I know loves to work with engineers and PMs that value d
 
 Read the next installments in this series: [How to work with PMs: a cheat sheet for designers and How to work with engineers](https://medium.com/the-year-of-the-looking-glass/3e852d5eccf5)[明天的文章，看看其他人怎么看待产品经理-->这也是一个比较少接触到的视角，从其他岗位上看怎么跟产品经理沟通].
 
-来自 <https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.q42acjw13> 
+转自[@joulee](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.q42acjw13) 
 
