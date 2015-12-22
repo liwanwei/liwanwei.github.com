@@ -2,7 +2,7 @@
 layout: post
 category : PDM
 tagline: "产品经理"
-tags : [产品经理,沟通技巧]
+tags : [产品经理,Strategy]
 title:  "Understanding How The Innovator’s Dilemma Affects You"
 comments: true
 ---	
