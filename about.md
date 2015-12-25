@@ -17,6 +17,11 @@ description: "业余爱好的点滴记录，同时作为配置备份的存储地
 	- [www.juliezhuo.com](www.juliezhuo.com)
 	-  twitter [joulee](https://twitter.com/joulee)
 
+- Joel Spolsky
+	- Joel Spolsky, co-founder of Trello and Fog Creek Software, and CEO of Stack Exchange.
+	- personal site: [www.joelonsoftware.com/](http://www.joelonsoftware.com/)
+	- more about [Joel Spolsky](http://www.joelonsoftware.com/AboutMe.html).
+
 
 #### 更新日志
 
